@@ -823,7 +823,7 @@ a{
 
 }
 
-a span, a:visited span, a:link span, a:active span {
+.socialMedia a span, .socialMedia a:visited span, .socialMedia a:link span, .socialMedia a:active span {
 float: left;
 display: block;
 width: 40px;
